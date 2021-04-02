@@ -1,0 +1,1 @@
+# nats-go-mod-test
